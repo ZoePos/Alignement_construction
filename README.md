@@ -21,6 +21,7 @@ _Command line to run the script:_
 ./script_name.py --name xx  --AD_thr xxx
 
 > --name: give the name of the analyse (i.e. name of the folder containing the reference fasta file and the vcf + the name of the fasta file).  <br />
+
 > --AD_thr: minimum number of read per allele to modify the fasta sequence with the main variants. 
 
 
