@@ -1,4 +1,4 @@
-# Organellar_alignements_construction
+# Alignements construction script (initially for organellar gene sequences)
 
 >**Authors**: Sophie Gallina 1, Zoé Postel 1 <br />
 
