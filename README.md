@@ -1,4 +1,4 @@
-# Alignement_construction
+# Organellar_alignements_construction
 
 >**Authors**: Sophie Gallina 1, Zoé Postel 1 <br />
 
